@@ -6,7 +6,7 @@
 - 📫 How to reach me:  
    [linkedin](https://linkedin.com/in/ruslan-alykov)
    kipia.ralykov@gmail.com
-   insatgram @ell_rra
+   [insatgram](https://www.instagram.com/el_rra/)
 
 <!---
 Russell-Alykov/Russell-Alykov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
