@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Russell-Alykov. I make your Data speak!
-- 👀 I’m interested in Data and Python
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate with other developers
+- 👀 I’m interested in Data and Python.
+- 🌱 I’m currently learning Data Analysis.
+- 💞️ I’m looking to collaborate with Data community.
 - 📫 How to reach me:  
 - [linkedin](https://linkedin.com/in/ruslan-alykov)
 - kipia.ralykov@gmail.com
