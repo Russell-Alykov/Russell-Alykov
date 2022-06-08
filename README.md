@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me: 
 - insatgram @ell_rra 
-- linkedin.com/in/ruslan-alykov
+- [linkedin.com/in/ruslan-alykov]
 - gmail kipia.ralykov@gmail.com
 
 <!---
