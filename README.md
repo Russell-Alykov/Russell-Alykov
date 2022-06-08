@@ -1,4 +1,3 @@
-![](https://media4.giphy.com/media/RhGbWYqUJdPWM18zI6/giphy.gif?cid=790b76112343dafb94aa0e4614a14deeb6214130fa0dacd5&rid=giphy.gif&ct=s)
 - 👋 Hi, I’m @Russell-Alykov. I make your Data speak!
 - 👀 I’m interested in Data and Python.
 - 🌱 I’m currently learning Data Analysis.
