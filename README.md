@@ -6,7 +6,7 @@
 - 📫 How to reach me:  
    [linkedin](https://linkedin.com/in/ruslan-alykov) 
    | kipia.ralykov@gmail.com 
-   | [insatgram](https://www.instagram.com/el_rra/)
+   | [insatgram](https://www.instagram.com/el_rra/ =500x254)
  
 ![](./ra.gif)
 <!---
