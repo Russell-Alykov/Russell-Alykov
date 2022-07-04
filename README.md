@@ -8,7 +8,7 @@
    | kipia.ralykov@gmail.com 
    | [insatgram](https://www.instagram.com/el_rra/)
  
-![](./ra.gif =500x254)
+<img src="https://github.com/Russell-Alykov/Russell-Alykov/raw/main/ra.gif" width="500" height="254" />
 <!---
 Russell-Alykov/Russell-Alykov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
