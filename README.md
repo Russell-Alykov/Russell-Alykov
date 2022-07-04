@@ -1,5 +1,4 @@
-<p align="center">
-![](https://media4.giphy.com/media/6xE1FNcorRInS/giphy.gif?cid=ecf05e47msbjazhdf1xxoqr18rmq821yrf38k0gws831rl73&rid=giphy.gif&ct=g)
+<p align="center">![](https://media4.giphy.com/media/6xE1FNcorRInS/giphy.gif?cid=ecf05e47msbjazhdf1xxoqr18rmq821yrf38k0gws831rl73&rid=giphy.gif&ct=g)
 - 👋 Hi, I’m @Russell-Alykov. I make your Data speak!
 - 👀 I’m interested in Data and Python.
 - 🌱 I’m currently learning Data Analysis.
