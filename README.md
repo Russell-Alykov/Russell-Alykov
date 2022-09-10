@@ -2,9 +2,9 @@
 Junior Data Analyst.
 
 **ABOUT_**<br/>
-On my way to become Python-Jedi.
-I enjoy to dive into the data and find patterns.
-Also like solving tasks related to Statistics and A/B testing.
+On my way to become Python-Jedi.<br/>
+I enjoy to dive into the data and find patterns.<br/>
+Also like solving tasks related to Statistics and A/B testing.<br/>
 Love Data Science.
 
 **PROJECTS_**<br/>
