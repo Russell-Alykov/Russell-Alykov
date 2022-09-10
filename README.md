@@ -11,7 +11,7 @@ Love Data Science.
 - [My first Data Analysis project](https://github.com/Russell-Alykov/data_analysis/blob/9dbc8f8cd392ee4b48549bf63d94e270ecdb1539/first_project/first_project.ipynb)<br/>
 Description:<br/> E-commerce project. Major part of this project is cohort and RFM segmentation.
 
-**SKILLS_**<br/>
+**STACK_**<br/>
 - Python (Pandas, Seaborn, Statsmodels, SciPy, NumPy)
 - SQL (ClickHouse, PostgreSQL)
 - A/B testing and statistics
