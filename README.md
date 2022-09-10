@@ -1,16 +1,25 @@
 **Ruslan_Alykov**<br/>
 Junior Data Analyst.
 
-**PROJECTS_**<br/>
-- My first big Data Analysis project<br/>
-[first_project](https://github.com/Russell-Alykov/data_analysis/blob/9dbc8f8cd392ee4b48549bf63d94e270ecdb1539/first_project/first_project.ipynb)<br/>
-Description: E-commerce project. Major part of this project is cohort and RFM segmentation.
-
 **ABOUT_**<br/>
 On my way to become Python-Jedi.
 I enjoy to dive into the data and find patterns.
 Also like solving tasks related to Statistics and A/B testing.
 Love Data Science.
+
+**PROJECTS_**<br/>
+- My first big Data Analysis project<br/>
+[first_project](https://github.com/Russell-Alykov/data_analysis/blob/9dbc8f8cd392ee4b48549bf63d94e270ecdb1539/first_project/first_project.ipynb)<br/>
+Description: E-commerce project. Major part of this project is cohort and RFM segmentation.
+
+**SKILLS_**<br/>
+- Python(Pandas, Seaborn, Statsmodels, SciPy, NumPy)
+- SQL(ClickHouse, PostgreSQL)
+- A/B testing and statistics
+- BI systems (Tableau, Redash)
+- Git
+- Airflow
+
 
 **CONTACT_**<br/>
    - [linkedin](https://linkedin.com/in/ruslan-alykov) 
