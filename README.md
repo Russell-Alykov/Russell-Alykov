@@ -1,4 +1,4 @@
-**Ruslan_Alykov**<br/>
+**RUSLAN_AlYKOV**<br/>
 Junior Data Analyst.
 
 **ABOUT_**<br/>
