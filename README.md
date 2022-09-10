@@ -3,7 +3,7 @@ Junior Data Analyst.
 
 **PROJECTS_**<br/>
 My first big Data Analysis project<br/>
-first_project/first_project.ipynb<br/>
+[first_project](https://github.com/Russell-Alykov/data_analysis/blob/9dbc8f8cd392ee4b48549bf63d94e270ecdb1539/first_project/first_project.ipynb)<br/>
 Description: E-commerce project. Major part of this project is cohort and RFM segmentation.
 
 **ABOUT_**<br/>
