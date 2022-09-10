@@ -1,9 +1,13 @@
-![](https://media4.giphy.com/media/6xE1FNcorRInS/giphy.gif?cid=ecf05e47msbjazhdf1xxoqr18rmq821yrf38k0gws831rl73&rid=giphy.gif&ct=g)
-- 👋 Hi, I’m @Russell-Alykov. I make your Data speak!
-- 👀 I’m interested in Data and Python.
-- 🌱 I’m currently learning Data Analysis.
-- 💞️ I’m looking to collaborate with Data community.
-- 📫 How to reach me:  
+Hi, I’m @Russell-Alykov. I make your Data speak!
+
+
+**ABOUT_**
+On my way to become Python-Jedi.
+I enjoy to dive into the data and find patterns.
+Also like solving tasks related to Statistics and A/B testing.
+Love Data Science.
+
+**CONTACT_**
    [linkedin](https://linkedin.com/in/ruslan-alykov) 
    | kipia.ralykov@gmail.com 
    | [insatgram](https://www.instagram.com/el_rra/)
