@@ -1,4 +1,4 @@
-Hi, I’m @Russell-Alykov. I make your Data speak!
+**Ruslan_Alykov**
 
 
 **ABOUT_**
