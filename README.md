@@ -19,6 +19,7 @@ Description: E-commerce project. Major part of this project is cohort and RFM se
 - BI systems (Tableau, Redash)
 - Git
 - Airflow
+- Excel
 
 
 **CONTACT_**<br/>
