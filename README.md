@@ -1,7 +1,10 @@
 **Ruslan_Alykov**<br/>
 Junior Data Analyst.
 
-**Projcets_**
+**PROJECTS_**<br/>
+My first big Data Analysis project<br/>
+first_project/first_project.ipynb<br/>
+Description: E-commerce project. Major part of this project is cohort and RFM segmentation.
 
 **ABOUT_**<br/>
 On my way to become Python-Jedi.
