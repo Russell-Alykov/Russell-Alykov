@@ -13,8 +13,8 @@ Love Data Science.
 Description: E-commerce project. Major part of this project is cohort and RFM segmentation.
 
 **SKILLS_**<br/>
-- Python(Pandas, Seaborn, Statsmodels, SciPy, NumPy)
-- SQL(ClickHouse, PostgreSQL)
+- Python (Pandas, Seaborn, Statsmodels, SciPy, NumPy)
+- SQL (ClickHouse, PostgreSQL)
 - A/B testing and statistics
 - BI systems (Tableau, Redash)
 - Git
