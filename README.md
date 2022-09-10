@@ -1,15 +1,15 @@
-**Ruslan_Alykov**
+**Ruslan_Alykov**<br/>
+Junior Data Analyst.
 
+**Projcets_**
 
-**ABOUT_**
-
+**ABOUT_**<br/>
 On my way to become Python-Jedi.
 I enjoy to dive into the data and find patterns.
 Also like solving tasks related to Statistics and A/B testing.
 Love Data Science.
 
-**CONTACT_**
-
+**CONTACT_**<br/>
    [linkedin](https://linkedin.com/in/ruslan-alykov) 
    | kipia.ralykov@gmail.com 
    | [insatgram](https://www.instagram.com/el_rra/)
