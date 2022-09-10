@@ -2,12 +2,14 @@ Hi, I’m @Russell-Alykov. I make your Data speak!
 
 
 **ABOUT_**
+
 On my way to become Python-Jedi.
 I enjoy to dive into the data and find patterns.
 Also like solving tasks related to Statistics and A/B testing.
 Love Data Science.
 
 **CONTACT_**
+
    [linkedin](https://linkedin.com/in/ruslan-alykov) 
    | kipia.ralykov@gmail.com 
    | [insatgram](https://www.instagram.com/el_rra/)
