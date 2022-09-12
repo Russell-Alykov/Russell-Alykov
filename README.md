@@ -8,7 +8,7 @@ Also like solving tasks related to Statistics and A/B testing.<br/>
 Love Data Science.
 
 **PROJECTS_**<br/>
-- [My first Data Analysis project](https://github.com/Russell-Alykov/data_analysis/blob/9dbc8f8cd392ee4b48549bf63d94e270ecdb1539/first_project/first_project.ipynb)<br/>
+- [My first Data Analysis project](https://github.com/Russell-Alykov/E-commerce_project/blob/5f4b8bbb798df65c73fc864aba6e46cf8f852162/e_commerce_project.ipynb)<br/>
 Description:<br/> E-commerce project. Major part of this project is cohort and RFM segmentation.
 
 **STACK_**<br/>
