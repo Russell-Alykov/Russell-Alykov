@@ -12,6 +12,8 @@ Love Data Science.
 Description:<br/> Major part of this project is cohort and RFM segmentation.
 - [A/B testing](https://github.com/Russell-Alykov/A-B_testing)<br/>
 Description:<br/> My A/B experiments with some apps datasets.
+- [Statistics](https://github.com/Russell-Alykov/Statistcs)<br/>
+Description:<br/>Statiscs practice
 
 **STACK_**<br/>
 - Python (Pandas, Seaborn, Statsmodels, SciPy, NumPy)
