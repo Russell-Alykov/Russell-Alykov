@@ -11,7 +11,7 @@ Love Data Science.
 - [E-commerce project](https://github.com/Russell-Alykov/E-commerce_project/blob/5f4b8bbb798df65c73fc864aba6e46cf8f852162/e_commerce_project.ipynb)<br/>
 Description:<br/> Major part of this project is cohort and RFM segmentation.
 - [A/B testing](https://github.com/Russell-Alykov/A-B_testing)<br/>
-Description:<br/> My A/B experiments with some apps.
+Description:<br/> My A/B experiments with some apps datasets.
 
 **STACK_**<br/>
 - Python (Pandas, Seaborn, Statsmodels, SciPy, NumPy)
