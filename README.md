@@ -8,8 +8,8 @@ Also like solving tasks related to Statistics and A/B testing.<br/>
 Love Data Science.
 
 **PROJECTS_**<br/>
-- [My first Data Analysis project](https://github.com/Russell-Alykov/E-commerce_project/blob/5f4b8bbb798df65c73fc864aba6e46cf8f852162/e_commerce_project.ipynb)<br/>
-Description:<br/> E-commerce project. Major part of this project is cohort and RFM segmentation.
+- [E-commerce project](https://github.com/Russell-Alykov/E-commerce_project/blob/5f4b8bbb798df65c73fc864aba6e46cf8f852162/e_commerce_project.ipynb)<br/>
+Description:<br/> Major part of this project is cohort and RFM segmentation.
 
 **STACK_**<br/>
 - Python (Pandas, Seaborn, Statsmodels, SciPy, NumPy)
