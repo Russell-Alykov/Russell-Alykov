@@ -14,6 +14,9 @@ Description:<br/> Major part of this project is cohort and RFM segmentation.
 Description:<br/> My A/B experiments with some apps datasets.
 - [Statistics](https://github.com/Russell-Alykov/Statistcs)<br/>
 Description:<br/>Statiscs practice
+- [API](https://github.com/Russell-Alykov/API)<br/>
+Description:<br/>Work with Google sheets, VK and Telegram api
+
 
 **STACK_**<br/>
 - Python (Pandas, Seaborn, Statsmodels, SciPy, NumPy)
