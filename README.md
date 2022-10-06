@@ -20,7 +20,7 @@ Description:<br/>Work with Google sheets, VK and Telegram api
 
 **STACK_**<br/>
 - Python (Pandas, Seaborn, Statsmodels, SciPy, NumPy)
-- SQL (ClickHouse, PostgreSQL)
+- SQL (ClickHouse, MySQL, PostgreSQL)
 - A/B testing and statistics
 - BI systems (Tableau, Redash)
 - Git
