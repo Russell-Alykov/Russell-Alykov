@@ -29,6 +29,8 @@ Description:<br/>Work with Google sheets, VK and Telegram api
 - Airflow
 - Excel
 
+**Education_**<br/>
+[embed]https://drive.google.com/file/d/1k6sFf1P0kJaUEeG7NZxI6SsOfrpONHWV/view?usp=sharing[/embed]
 
 **CONTACT_**<br/>
    - [linkedin](https://linkedin.com/in/ruslan-alykov) 
