@@ -30,7 +30,7 @@ Description:<br/>Work with Google sheets, VK and Telegram api
 
 **CERTIFICATES_**
 - [Data analysis](https://lab.karpov.courses/certificate/8d6a3083-50fa-4ff7-878f-66bb1726918a/en/)<br/>
-- [Аundamentals of statistics](https://stepik.org/cert/1618637)
+- [Fundamentals of statistics](https://stepik.org/cert/1618637)
 
 **CONTACT_**<br/>
    - [linkedin](https://linkedin.com/in/ruslan-alykov) 
