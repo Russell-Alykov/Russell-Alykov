@@ -35,6 +35,7 @@ Description:<br/>Work with Google sheets, VK and Telegram api
 **CONTACT_**<br/>
    - [linkedin](https://linkedin.com/in/ruslan-alykov) 
    - kipia.ralykov@gmail.com 
+   - telegram: @phantom_lancer_gang
 <!---
 Russell-Alykov/Russell-Alykov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
