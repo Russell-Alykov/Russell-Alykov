@@ -1,5 +1,5 @@
 **RUSLAN_AlYKOV**<br/>
-Junior Data Analyst.
+Data Analyst / Product Analyst
 
 **ABOUT_**<br/>
 On my way to become Python-Jedi.<br/>
