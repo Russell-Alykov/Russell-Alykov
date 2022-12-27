@@ -20,7 +20,7 @@ Description:<br/>Statiscs practice
 Description:<br/>Work with Google sheets, VK and Telegram api
 
 **STACK_**<br/>
-- Python (Pandas, Seaborn, Matplotlib, Statsmodels, SciPy, NumPy)
+- Python (Pandas, Seaborn, Matplotlib, Statsmodels, NumPy, SciPy)
 - SQL (PostgreSQL, MySQL, ClickHouse)
 - A/B testing and statistics
 - BI systems (Tableau, Redash)
