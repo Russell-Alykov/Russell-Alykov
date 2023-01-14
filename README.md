@@ -18,7 +18,7 @@ Description:<br/> My A/B experiments with some apps datasets.
 Description:<br/>Statiscs practice
 - [API](https://github.com/Russell-Alykov/API)<br/>
 Description:<br/>Work with Google sheets, VK and Telegram api
-- [Airflow](https://github.com/Russell-Alykov/Airflow/blob/main/dags.py)
+- [Airflow](https://github.com/Russell-Alykov/Airflow/blob/main/dags.py)<br/>
 Description:<br/>Airflow DAG's. Video games dataset simple analysis
 
 **STACK_**<br/>
