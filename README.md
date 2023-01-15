@@ -10,6 +10,8 @@ Love Data Science.
 **PROJECTS_**<br/>
 - [E-learning project](https://github.com/Russell-Alykov/E-learning_project/blob/main/e_learning_project.ipynb)<br/>
 Description:<br/> A/B tests, metrics and SQL requests.
+- [BestBuy API](https://github.com/Russell-Alykov/BestBuy_API/blob/main/bestbuy_API.ipynb)<br/>
+Description:<br/> Downloading BestBuy products data via API. Products and customers reviews base analysis.
 - [E-commerce project](https://github.com/Russell-Alykov/E-commerce_project/blob/5f4b8bbb798df65c73fc864aba6e46cf8f852162/e_commerce_project.ipynb)<br/>
 Description:<br/> Major part of this project is cohort and RFM segmentation.
 - [A/B testing](https://github.com/Russell-Alykov/A-B_testing)<br/>
