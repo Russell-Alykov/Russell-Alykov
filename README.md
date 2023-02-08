@@ -30,6 +30,7 @@ Description:<br/>Airflow DAG. Video games sales dataset simple analysis.
 - BI systems (Tableau, Redash)
 - Git
 - Airflow
+- Linux
 - Excel
 
 **CERTIFICATES_**
