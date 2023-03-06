@@ -24,7 +24,7 @@ Description:<br/>Statiscs practice
 - [API](https://github.com/Russell-Alykov/API)<br/>
 Description:<br/>Work with Google sheets, VK and Telegram api
 - [Airflow](https://github.com/Russell-Alykov/Airflow/blob/main/dags.py)<br/>
-Description:<br/>Airflow DAG. Video games sales dataset simple analysis.
+Description:<br/>Airflow DAG. Video games sales dataset base analysis.
 
 **STACK_**<br/>
 - Python (Pandas, Seaborn, Matplotlib, Statsmodels, NumPy, SciPy)
