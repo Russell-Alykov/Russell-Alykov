@@ -2,10 +2,13 @@
 Data Analyst / Product Analyst
 
 **ABOUT_**<br/>
+Hello my name is Ruslan, I'm Data Analyst, ex System Admistrator (7 years of experience).
 On my way to become Python-Jedi.<br/>
-I enjoy to dive into the data and find patterns.<br/>
+I enjoy to dive into the Data and find patterns.<br/>
 Also like solving tasks related to Statistics and A/B testing.<br/>
-Love Data Science.
+I love and wanna study all about Data Science (ML/DA/DE).<br/>
+It's an endless road, but I'll go as far as I can.<br/>
+God bless the Math and the Semiconductors!
 
 **PROJECTS_**<br/>
 - [E-learning project](https://github.com/Russell-Alykov/E-learning_project/blob/main/e_learning_project.ipynb)<br/>
