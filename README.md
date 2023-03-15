@@ -30,7 +30,7 @@ Description:<br/>Airflow DAG. Video games sales dataset base analysis.
 - Python (Pandas, Seaborn, Matplotlib, Statsmodels, NumPy, SciPy)
 - SQL (PostgreSQL, MySQL, ClickHouse)
 - A/B testing and statistics
-- BI systems (Tableau, Redash)
+- BI systems (Tableau, Redash, Looker data studio)
 - Git
 - Airflow
 - Linux
