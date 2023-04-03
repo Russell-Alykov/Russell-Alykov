@@ -18,7 +18,7 @@ Description:<br/> Downloading [BestBuy](https://www.bestbuy.com/) products data 
 - [E-commerce project](https://github.com/Russell-Alykov/E-commerce_project/blob/5f4b8bbb798df65c73fc864aba6e46cf8f852162/e_commerce_project.ipynb)<br/>
 Description:<br/> Major part of this project is cohort and RFM segmentation.
 - [Windy.app](https://github.com/Russell-Alykov/windy.app)<br/>
-- Just a well done test task about anomalous activity of advertising campaigns.
+Description: Just a well done test task about anomalous activity of advertising campaigns.
 - [A/B testing](https://github.com/Russell-Alykov/A-B_testing)<br/>
 Description:<br/> My A/B experiments with some apps datasets.
 - [Statistics](https://github.com/Russell-Alykov/Statistcs)<br/>
