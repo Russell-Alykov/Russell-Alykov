@@ -34,6 +34,7 @@ Description:<br/>Airflow DAG. Video games sales dataset base analysis.
 - A/B testing and statistics
 - BI systems (Tableau, Yandex Data Lens, Redash)
 - ETL
+- REST APIs
 - Git
 - Airflow
 - Linux
