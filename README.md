@@ -1,8 +1,8 @@
 **RUSLAN_AlYKOV**<br/>
-Data Analyst / Product Analyst
+Data Analyst / Product Analyst / BI Analyst
 
 **ABOUT_**<br/>
-Hello my name is Ruslan, I'm Data Analyst, ex System Admistrator (7 years of experience).<br/>
+Hello my name is Ruslan, I'm Data Analyst, ex System Admistrator (6 years of experience).<br/>
 On my way to become Python-Jedi.<br/>
 I enjoy to dive into the Data and find patterns.<br/>
 Also like solving tasks related to Statistics and A/B testing.<br/>
