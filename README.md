@@ -33,13 +33,12 @@ Description:<br/>Airflow DAG. Video games sales dataset base analysis.
 - SQL (PostgreSQL, MySQL, ClickHouse)
 - A/B testing and statistics
 - BI systems (Tableau, Yandex Data Lens, Redash)
-- ETL
 - REST APIs
 - Git
-- Airflow
-- Linux
-- Bash
-- Excel
+- Airflow, ETL
+- Linux, Bash
+- Google sheets, Excel
+- HTML, CSS
 
 **CERTIFICATES_**
 - [Data analysis](https://lab.karpov.courses/certificate/8d6a3083-50fa-4ff7-878f-66bb1726918a/en/)<br/>
