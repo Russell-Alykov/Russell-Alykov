@@ -1,5 +1,5 @@
 **RUSLAN_AlYKOV**<br/>
-Data Analyst / Product Analyst / BI Analyst
+Data Analyst / Product, BI
 
 **ABOUT_**<br/>
 Hello my name is Ruslan, I'm Data Analyst, ex System Admistrator (6 years of experience).<br/>
