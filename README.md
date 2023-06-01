@@ -8,7 +8,7 @@ I enjoy to dive into the Data and find patterns.<br/>
 Also like solving tasks related to Statistics and A/B testing.<br/>
 I love and wanna study all about Data Science (ML/DA/DE).<br/>
 It's an endless road, but I'll go as far as I can.<br/>
-God bless the Math and the Semiconductors!
+God bless the Math and Semiconductors!
 
 **PROJECTS_**<br/>
 - [E-learning project](https://github.com/Russell-Alykov/E-learning_project/blob/main/e_learning_project.ipynb)<br/>
