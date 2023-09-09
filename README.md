@@ -17,7 +17,8 @@ ETL bots_<br/>
 - [Bot goods leftovers reports.](https://github.com/Russell-Alykov/Work/blob/main/bot_leftovers_mp/bot_leftovers_mp.py)<br/>
 Description:<br/> My ETL pipeline, starting from download and aggregate PostgreSQL data by using Python, <br/>
 to email HTML content with goods leftovers report data, sending to every manager of marketplace.<br/>
-Output: **Emails with goods cards and warnings, Telegram notification with short report, Full Excel table with report**<br/>
+Output:<br/>
+**Emails with goods cards and warnings, Telegram notification with short report, Full Excel table with report**<br/>
 
 **MY STUDY PROJECTS_** <br/>
 - [E-learning project](https://github.com/Russell-Alykov/E-learning_project/blob/main/e_learning_project.ipynb)<br/>
