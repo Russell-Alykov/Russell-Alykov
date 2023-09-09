@@ -19,7 +19,7 @@ Description:<br/> My ETL pipeline, starting from download and aggregate PostgreS
 to email HTML content sending to every manager of marketplace with goods leftovers report data.<br/>
 
 <br/>
-**STUDY PROJECTS_**<br/>
+**STUDY PROJECTS_** <br/>
 - [E-learning project](https://github.com/Russell-Alykov/E-learning_project/blob/main/e_learning_project.ipynb)<br/>
 Description:<br/> A/B tests, metrics and SQL requests.
 - [BestBuy API](https://github.com/Russell-Alykov/BestBuy_API)<br/>
