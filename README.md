@@ -5,7 +5,7 @@ Data Analyst / Product, BI
 Hello my name is Ruslan, I'm Data Analyst, ex System Admistrator (6 years of experience).<br/>
 On my way to become Python-Jedi.<br/>
 I enjoy to dive into the Data and find patterns.<br/>
-Also like solving tasks related to Statistics and A/B testing.<br/>
+Also like solving tasks related to Statistics and A/B testing.<br/
 I love and wanna study all about Data Science (ML/DA/DE).<br/>
 It's an endless road, but I'll go as far as I can.<br/>
 God bless the Math and Semiconductors!
@@ -14,7 +14,7 @@ God bless the Math and Semiconductors!
 (All data structure is anonymized)<br/>
 <br/>
 My ETL bots:<br/>
-[Bot leftovers reports. Email, Telegram, Exce)](https://github.com/Russell-Alykov/Work/blob/main/bot_leftovers_mp/bot_leftovers_mp.py)<br/>
+[Bot leftovers reports. Email, Telegram, Excel](https://github.com/Russell-Alykov/Work/blob/main/bot_leftovers_mp/bot_leftovers_mp.py)<br/>
 Description:<br/> My ETL pipeline, starting from download and aggregate PostgreSQL data by using Python, <br/>
 to email HTML content sending to every manager of marketplace with goods leftovers report data.<br/>
 
