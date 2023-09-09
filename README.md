@@ -10,7 +10,7 @@ I love and wanna study all about Data Science (ML/DA/DE).<br/>
 It's an endless road, but I'll go as far as I can.<br/>
 God bless the Math and Semiconductors!
 
-**MY REAL COMMERCIAL PROJECTS_** <br/>
+**MY REAL COMMERCIAL PROJECTS_2023_** <br/>
 (All data structure is anonymized)<br/>
 ETL bots_<br/>
 - [Bot goods leftovers and stock reports.](https://github.com/Russell-Alykov/Work/blob/main/bot_leftovers_mp/bot_leftovers_mp.py)<br/>
@@ -19,7 +19,7 @@ to email HTML content with goods leftovers report data, sending to every manager
 Output:<br/>
 **Emails with goods cards and warnings, Telegram notification with short report, Full report Excel table**<br/>
 
-**MY STUDY PROJECTS_** <br/>
+**MY STUDY PROJECTS_2022_** <br/>
 - [E-learning project](https://github.com/Russell-Alykov/E-learning_project/blob/main/e_learning_project.ipynb)<br/>
 Description:<br/> A/B tests, metrics and SQL requests.
 - [BestBuy API](https://github.com/Russell-Alykov/BestBuy_API)<br/>
