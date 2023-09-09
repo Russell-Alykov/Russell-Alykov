@@ -12,6 +12,7 @@ God bless the Math and Semiconductors!
 
 **MY REAL COMMERCIAL PROJECTS_**<br/>
 (All data structure is anonymized)<br/>
+<br/>
 My ETL bots:<br/>
 - [Bot leftovers reports (email, telegram, excel)](https://github.com/Russell-Alykov/Work/blob/main/bot_leftovers_mp/bot_leftovers_mp.py)<br/>
 Description:<br/> My ETL pipeline, starting from download and aggregate PostgreSQL data by using Python, <br/>
