@@ -10,7 +10,15 @@ I love and wanna study all about Data Science (ML/DA/DE).<br/>
 It's an endless road, but I'll go as far as I can.<br/>
 God bless the Math and Semiconductors!
 
-**PROJECTS_**<br/>
+**MY REAL COMMERCIAL PROJECTS_**<br/>
+(All data structure is anonymized)<br/>
+My ETL bots:<br/>
+- [Bot leftovers reports (email, telegram, excel)](https://github.com/Russell-Alykov/Work/blob/main/bot_leftovers_mp/bot_leftovers_mp.py)<br/>
+Description:<br/> My ETL pipeline, starting from download and aggregate PostgreSQL data by using Python, <br/>
+to email HTML content sending to every manager of marketplace with goods leftovers report data.<br/>
+
+<br/>
+**STUDY PROJECTS_**<br/>
 - [E-learning project](https://github.com/Russell-Alykov/E-learning_project/blob/main/e_learning_project.ipynb)<br/>
 Description:<br/> A/B tests, metrics and SQL requests.
 - [BestBuy API](https://github.com/Russell-Alykov/BestBuy_API)<br/>
