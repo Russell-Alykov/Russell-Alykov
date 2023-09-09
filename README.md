@@ -16,7 +16,7 @@ God bless the Math and Semiconductors!
 ETL bots_<br/>
 - [Bot goods leftovers reports.](https://github.com/Russell-Alykov/Work/blob/main/bot_leftovers_mp/bot_leftovers_mp.py)<br/>
 Description:<br/> My ETL pipeline, starting from download and aggregate PostgreSQL data by using Python, <br/>
-to email HTML content sending to every manager of marketplace with goods leftovers report data.<br/>
+to email HTML content with goods leftovers report data, sending to every manager of marketplace.<br/>
 Output: **Emails, Telegram, Excel**<br/>
 
 **MY STUDY PROJECTS_** <br/>
