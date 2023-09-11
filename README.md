@@ -19,6 +19,8 @@ to email HTML content with goods stock report data, sending to every manager of 
 Output:<br/>
 **Emails with goods cards and warnings, Telegram notification with short report, Full report Excel table**<br/>
 - []() <br/>
+Description:<br/>
+Output:<br/>
 
 **MY STUDY PROJECTS_2022_** <br/>
 - [E-learning project](https://github.com/Russell-Alykov/E-learning_project/blob/main/e_learning_project.ipynb)<br/>
