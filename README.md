@@ -18,7 +18,7 @@ Description:<br/> My ETL pipeline, starting from download and aggregate PostgreS
 to email HTML content with goods stock report data, sending to every manager of marketplace.<br/>
 Output:<br/>
 **Emails with goods cards and warnings, Telegram notification with short report, Full report Excel table**<br/>
-- []() <br/>
+- [Product cards content rating report.]() <br/>
 Description:<br/>
 Output:<br/>
 
