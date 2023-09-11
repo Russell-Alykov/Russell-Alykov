@@ -49,7 +49,7 @@ Description:<br/>Airflow DAG. Video games sales dataset base analysis.
 - BI systems (Tableau, Yandex Data Lens, Redash)
 - REST APIs
 - Git
-- ETL and automation (Airflow)
+- Airflow
 - Linux, MacOS, Bash, Zsh
 - Google sheets, Excel
 - HTML, CSS
