@@ -18,7 +18,7 @@ Description:<br/> My ETL pipeline, starting from download and aggregate PostgreS
 to email HTML content with goods stock report data, sending to every manager of marketplace.<br/>
 Output:<br/>
 **Emails with goods cards and warnings, Telegram notification with short report, Full report Excel table**<br/>
-- t <br/>
+- []() <br/>
 
 **MY STUDY PROJECTS_2022_** <br/>
 - [E-learning project](https://github.com/Russell-Alykov/E-learning_project/blob/main/e_learning_project.ipynb)<br/>
