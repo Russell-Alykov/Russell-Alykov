@@ -3,10 +3,11 @@ Data Analyst / Product, BI
 
 **ABOUT_**<br/>
 Hello my name is Ruslan, I'm Data Analyst from 2022, ex System Admistrator (6 years of experience).<br/>
+I love IT and Science.<br/>
 Python-Jedi.<br/>
 I enjoy to dive into the Data and find patterns.<br/>
 Also like solving tasks related to Statistics and A/B testing.<br/>
-I love and wanna study all about Data Science (ML/DA/DE).<br/>
+Wanna study all about Data Science (ML/DA/DE).<br/>
 It's an endless road, but I'll go as far as I can.<br/>
 God bless the Math and Semiconductors!
 
