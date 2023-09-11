@@ -47,11 +47,11 @@ Description:<br/>Airflow DAG. Video games sales dataset base analysis.
 - SQL (PostgreSQL, MySQL, ClickHouse)
 - A/B testing and statistics (EDA, Data Pre-Processing, Classical Parametric and Non-parametric tests, Bootstrapping)
 - BI systems (Tableau, Yandex Data Lens, Redash)
-- REST APIs
-- Git
 - Airflow
-- Linux, macOS, Bash, Zsh
+- Git
 - Google sheets, Excel
+- Linux, macOS, Bash, Zsh
+- REST APIs
 - HTML, CSS
 
 **CERTIFICATES_**
