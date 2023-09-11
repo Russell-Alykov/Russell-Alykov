@@ -48,6 +48,7 @@ Description:<br/>Airflow DAG. Video games sales dataset base analysis.
 - A/B testing and statistics (EDA, Data Pre-Processing, Classical Parametric and Non-parametric tests, Bootstrapping)
 - BI systems (Tableau, Yandex Data Lens, Redash)
 - Airflow
+- Jupyter Notebook
 - Git
 - Google sheets, Excel
 - Linux, macOS, Bash, Zsh
