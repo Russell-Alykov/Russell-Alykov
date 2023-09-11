@@ -16,7 +16,7 @@ God bless the Math and Semiconductors!
 ETL's_<br/>
 - [Bot goods leftovers and stock reports.](https://github.com/Russell-Alykov/Work/blob/main/bot_leftovers_mp/bot_leftovers_mp.py)<br/>
 Description:<br/> ETL pipeline, starting from download and aggregate PostgreSQL data by using Python, <br/>
-to email HTML content with goods stock report data, sending to every manager of marketplace and messenger bot.<br/>
+to email HTML content with goods stock report data, sending to every manager of marketplace and messenger bot notifications.<br/>
 Output:<br/>
 **Emails with goods cards and warnings, Telegram notification with short report, Full report Excel table**<br/>
 - [Product cards content rating report.](https://github.com/Russell-Alykov/Work/blob/main/content_rating/content_rating.py) <br/>
