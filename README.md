@@ -18,7 +18,7 @@ Description:<br/> My ETL pipeline, starting from download and aggregate PostgreS
 to email HTML content with goods stock report data, sending to every manager of marketplace.<br/>
 Output:<br/>
 **Emails with goods cards and warnings, Telegram notification with short report, Full report Excel table**<br/>
-- [Product cards content rating report.]() <br/>
+- [Product cards content rating report.](https://github.com/Russell-Alykov/Work/blob/main/content_rating/content_rating.py) <br/>
 Description:<br/> ETL pipeline, download products content raiting data via API from Ozon marketplace to PostgreSQL server and Excel reports. <br/>
 Output: <br/>
 **PostgreSQL DB, Google sheet, Excel**<br/>
