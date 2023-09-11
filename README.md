@@ -22,7 +22,7 @@ Output:<br/>
 - [Product cards content rating report.](https://github.com/Russell-Alykov/Work/blob/main/content_rating/content_rating.py) <br/>
 Description:<br/> ETL pipeline, download products content raiting data via API from Ozon marketplace to PostgreSQL server and Excel reports. <br/>
 Output: <br/>
-**PostgreSQL DB, Google sheet, Excel**<br/>
+**PostgreSQL DB table, Google sheet, Excel**<br/>
 
 **MY STUDY PROJECTS_2022_** <br/>
 - [E-learning project](https://github.com/Russell-Alykov/E-learning_project/blob/main/e_learning_project.ipynb)<br/>
