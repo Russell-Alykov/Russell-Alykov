@@ -19,8 +19,8 @@ to email HTML content with goods stock report data, sending to every manager of 
 Output:<br/>
 **Emails with goods cards and warnings, Telegram notification with short report, Full report Excel table**<br/>
 - [Product cards content rating report.]() <br/>
-Description:<br/> ETL pipeline, download products content raiting data via API from Ozon marketplace to PostgreSQL server and Excel reports.
-Output:<br/>
+Description:<br/> ETL pipeline, download products content raiting data via API from Ozon marketplace to PostgreSQL server and Excel reports.<br/>
+Output: <br/>
 **PostgreSQL DB, Google sheet, Excel**<br/>
 
 **MY STUDY PROJECTS_2022_** <br/>
