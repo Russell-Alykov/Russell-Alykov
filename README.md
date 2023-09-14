@@ -6,13 +6,13 @@ Hello my name is Ruslan, I'm Data Analyst from 2022, ex System Admistrator (6 ye
 Python-Jedi 🧘🏼‍♂️ and Terminal-Wizard 🧙🏻‍♂️ <br/>
 I enjoy to dive into the Data and find patterns 👨🏼‍💻 <br/>
 Also like solving tasks related to Statistics and A/B testing 👨🏼‍🔬<br/>
-Wanna study all about Data Science (ML/DA/DE) 📊📈<br/>
+Wanna study all about Data Science (ML/DA/DE) 📊📈👨🏼‍🏫<br/>
 It's an endless road, but I'll go as far as I can 🌐 <br/>
 God bless the Math and Semiconductors! 🖖🏻 <br/>
 **01110010 01100001** <br/>
 
 **MY COMMERCIAL PROJECTS_2023_** <br/>
-(All data structure is anonymized)<br/>
+(All data structure is anonymized 🥷🏼)<br/>
 ETL's and Reports_<br/>
 - [Bot goods leftovers and stock reports.](https://github.com/Russell-Alykov/Work/blob/main/bot_leftovers_mp/bot_leftovers_mp.py)<br/>
 Description:<br/> ETL pipeline, starting from download and aggregate PostgreSQL data by using Python, <br/>
