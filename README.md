@@ -11,7 +11,7 @@ It's an endless road, but I'll go as far as I can 🌐 <br/>
 God bless the Math and Semiconductors! 🖖🏻 <br/>
 **01110010 01100001** <br/>
 
-**MY REAL COMMERCIAL PROJECTS_2023_** <br/>
+**MY COMMERCIAL PROJECTS_2023_** <br/>
 (All data structure is anonymized)<br/>
 ETL's and Reports_<br/>
 - [Bot goods leftovers and stock reports.](https://github.com/Russell-Alykov/Work/blob/main/bot_leftovers_mp/bot_leftovers_mp.py)<br/>
