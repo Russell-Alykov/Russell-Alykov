@@ -8,8 +8,8 @@ I enjoy to dive into the Data and find patterns 👨🏼‍💻 <br/>
 Also like solving tasks related to Statistics and A/B testing 👨🏼‍🔬<br/>
 Wanna study all about Data Science (ML/DA/DE).<br/>
 It's an endless road, but I'll go as far as I can 🌐 <br/>
-God bless the Math and Semiconductors! 🖖🏻
-0️⃣1️⃣1️⃣0️⃣0️⃣0️⃣1️⃣0️⃣1️⃣0️⃣1️⃣0️⃣0️⃣
+God bless the Math and Semiconductors! 🖖🏻 <br/>
+**01110010 01100001** <br/>
 
 **MY REAL COMMERCIAL PROJECTS_2023_** <br/>
 (All data structure is anonymized)<br/>
