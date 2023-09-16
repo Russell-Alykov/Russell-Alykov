@@ -59,6 +59,10 @@ Description:<br/>Airflow DAG. Video games sales dataset base analysis.
 - [Data analysis](https://lab.karpov.courses/certificate/8d6a3083-50fa-4ff7-878f-66bb1726918a/en/)<br/>
 - [Fundamentals of statistics](https://stepik.org/cert/1618637)
 
+**EDUCATION_**<br/>
+Moscow State University of Economics, Statistics, and Informatics (Astrakhan Department)
+2009-2012
+
 **CONTACT_**<br/>
    - [linkedin](https://linkedin.com/in/ruslan-alykov) 
    - kipia.ralykov@gmail.com 
