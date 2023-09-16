@@ -52,7 +52,7 @@ Description:<br/>Airflow DAG. Video games sales dataset base analysis.
 - Jupyter Notebook
 - Git
 - Google sheets, Excel
-- Linux, macOS, Bash, Zsh
+- Linux, macOS, Windows, Bash, Zsh, cmd
 - HTML, CSS
 
 **CERTIFICATES_**
