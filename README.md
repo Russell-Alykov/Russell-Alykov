@@ -60,7 +60,7 @@ Description:<br/>Airflow DAG. Video games sales dataset base analysis.
 - [Fundamentals of statistics](https://stepik.org/cert/1618637)
 
 **EDUCATION_**<br/>
- - Moscow State University of Economics, Statistics, and Informatics (Astrakhan Department)
+ - Moscow State University of Economics, Statistics, and Informatics (Astrakhan Department)<br/>
 2009-2012
 
 **CONTACT_**<br/>
