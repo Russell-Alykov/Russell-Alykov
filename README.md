@@ -23,6 +23,7 @@ Output:<br/>
 Description:<br/> ETL pipeline, download products content raiting data via API from Ozon marketplace to PostgreSQL server and Excel reports. <br/>
 Output: <br/>
 **PostgreSQL DB table, Google sheet, Excel**<br/>
+- []()
 
 **MY STUDY PROJECTS_2022_** <br/>
 - [E-learning project](https://github.com/Russell-Alykov/E-learning_project/blob/main/e_learning_project.ipynb)<br/>
