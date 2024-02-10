@@ -14,7 +14,7 @@ God bless the Math and Semiconductors! 🖖🏻 <br/>
 **MY COMMERCIAL PROJECTS_2023_** <br/>
 (All data structure is anonymized 🥷🏼)<br/>
 ETL's and Reports_<br/>
-- [Bot goods leftovers and stock reports.](https://github.com/Russell-Alykov/Work/blob/main/bot_leftovers_mp/bot_leftovers_mp.py)<br/>
+- [Stock reports bot.](https://github.com/Russell-Alykov/Work/blob/main/bot_leftovers_mp/bot_leftovers_mp.py)<br/>
 Description:<br/> ETL pipeline, starting from download and aggregate PostgreSQL data by using Python, <br/>
 to email HTML content with goods stock report data, sending to every manager of marketplace and messenger notifications bot.<br/>
 Output:<br/>
