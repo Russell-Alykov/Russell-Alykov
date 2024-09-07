@@ -3,7 +3,7 @@ Data Analyst / Product, BI
 
 **ABOUT_**<br/>
 Hello my name is Ruslan, I'm Data Analyst from 2022, ex System Admistrator (6 years of experience).<br/>
-From May 2024 to December 2024 I am studying a Machine Learning course by Karpov.Courses. 👨🏼‍🏫<br/>
+From May 2024 to December 2024 I am studying a Machine Learning course. 👨🏼‍🏫<br/>
 Python-Jedi 🧘🏼‍♂️ & Terminal-Wizard 🧙🏻‍♂️ <br/>
 I enjoy to dive into the Data and find patterns 👨🏼‍💻 <br/>
 Also like solving tasks related to Statistics and A/B testing 👨🏼‍🔬<br/>
