@@ -45,10 +45,10 @@ Description:<br/>Work with Google sheets, VK and Telegram api
 Description:<br/>Airflow DAG. Video games sales dataset base analysis.
 
 **STACK_**<br/>
-- Python (Pandas, Seaborn, Matplotlib, Statsmodels, NumPy, SciPy, Psycopg2, SQLAlchemy)
+- Python (Pandas, NumPy, Scikit-Learn, Statsmodels, Matplotlib, Seaborn, SQLAlchemy)
 - SQL (PostgreSQL, MySQL, ClickHouse)
 - A/B testing and statistics (EDA, Data Pre-Processing, Classical Parametric and Non-parametric tests, Bootstrapping)
-- BI systems (Tableau, Yandex Data Lens, Redash)
+- BI systems (Apache Superset, Tableau, Yandex Data Lens, MS Power BI, Redash)
 - Airflow
 - Jupyter Notebook
 - Git
