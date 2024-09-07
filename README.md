@@ -54,7 +54,6 @@ Description:<br/>Airflow DAG. Video games sales dataset base analysis.
 - Git
 - Google sheets, Excel
 - Linux, macOS, Windows, Bash, Zsh, cmd
-- HTML, CSS
 
 **CERTIFICATES_**
 - [Data analysis](https://lab.karpov.courses/certificate/8d6a3083-50fa-4ff7-878f-66bb1726918a/en/)<br/>
