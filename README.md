@@ -66,7 +66,7 @@ Description:<br/>Airflow DAG. Video games sales dataset base analysis.
 
 **CONTACT_**<br/>
    - [linkedin](https://linkedin.com/in/ruslan-alykov) 
-   - kipia.ralykov@gmail.com 
+   - rra.data.science@gmail.com
    - [telegram](https://t.me/phantom_lancer_gang)
 <!---
 Russell-Alykov/Russell-Alykov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
