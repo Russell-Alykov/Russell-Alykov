@@ -1,5 +1,6 @@
 **RUSLAN_AlYKOV**<br/>
-Data Analyst / Product, BI
+Data Analyst / Product, BI <br/>
+Student ML Engineer
 
 **ABOUT_**<br/>
 Hello my name is Ruslan, I'm Data Analyst from 2022, ex System Admistrator (6 years of experience).<br/>
