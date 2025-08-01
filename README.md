@@ -16,6 +16,10 @@ God bless the Math and Semiconductors! 🖖🏻 <br/>
 **MY COMMERCIAL PROJECTS_** <br/>
 (All data structure is anonymized 🥷🏼)<br/>
 ETL's and Reports_<br/>
+**2025_** <br/>
+
+**2024_** <br/>
+
 **2023_** <br/>
 - [Stock reports bot.](https://github.com/Russell-Alykov/Work/blob/main/bot_leftovers_mp/bot_leftovers_mp.py)<br/>
 Description:<br/> ETL pipeline, starting from download and aggregate PostgreSQL data by using Python, <br/>
