@@ -21,7 +21,7 @@ ETL's and Reports_<br/>
 **2024_** <br/>
 - [Amazon_ads_report](https://github.com/Russell-Alykov/Work/blob/main/amazon_ads_report/amz_ads_report.py)<br/>
 Description:<br/> ETL pipeline — downloading advertising reports from Amazon Ads API, transforming and loading data into PostgreSQL. <br/>
-Output:<br/>
+Output: - <br/>
 **PostgreSQL DB table for dashboard in Superset**<br/>
 <br/>
 **2023_** <br/>
