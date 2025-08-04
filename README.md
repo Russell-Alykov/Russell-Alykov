@@ -23,6 +23,7 @@ ETL's and Reports_<br/>
 Description:<br/> ETL pipeline — downloading advertising reports from Amazon Ads API, transforming and loading data into PostgreSQL. <br/>
 Output:<br/>
 **PostgreSQL DB table for dashboard in Superset**<br/>
+<br/>
 **2023_** <br/>
 - [Stock reports bot.](https://github.com/Russell-Alykov/Work/blob/main/bot_leftovers_mp/bot_leftovers_mp.py)<br/>
 Description:<br/> ETL pipeline that downloads and aggregates data from PostgreSQL using Python.
