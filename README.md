@@ -7,7 +7,7 @@ Hello my name is Ruslan, I'm Data Analyst from 2022, ex System Admistrator.<br/>
 From 2024 to 2025 I am studying a Machine Learning course. 👨🏼‍🏫<br/>
 Python-Jedi 🧘🏼‍♂️ & Terminal-Wizard 🧙🏻‍♂️ <br/>
 I enjoy to dive into the Data and find patterns 👨🏼‍💻 <br/>
-Also like solving tasks related to Statistics and A/B testing 👨🏼‍🔬<br/>
+Also passionate about solving tasks related to statistics and A/B testing 👨🏼‍🔬<br/>
 Wanna study all about Data Science (ML/DA/DE) 📊📈👨🏼‍🏫<br/>
 It's an endless road, but I'll go as far as I can 🌐 <br/>
 God bless the Math and Semiconductors! 🖖🏻 <br/>
@@ -19,18 +19,21 @@ ETL's and Reports_<br/>
 **2025_** <br/>
 
 **2024_** <br/>
-
+- [Amazon_ads_report](https://github.com/Russell-Alykov/Work/blob/main/amazon_ads_report/amz_ads_report.py)<br/>
+Description:<br/> ETL pipeline — downloading advertising reports from Amazon Ads API, transforming and loading data into PostgreSQL. <br/>
+Output:<br/>
+**PostgreSQL DB table for dashboard in Superset**
 **2023_** <br/>
 - [Stock reports bot.](https://github.com/Russell-Alykov/Work/blob/main/bot_leftovers_mp/bot_leftovers_mp.py)<br/>
-Description:<br/> ETL pipeline, starting from download and aggregate PostgreSQL data by using Python, <br/>
-to email HTML content with goods stock report data, sending to every manager of marketplace and messenger notifications bot.<br/>
+Description:<br/> ETL pipeline that downloads and aggregates data from PostgreSQL using Python.
+Generates HTML reports on stock availability and sends them to marketplace managers via email and Telegram.<br/>
 Output:<br/>
-**Emails with goods cards and warnings, Telegram notification with short report, Full report Excel table**<br/>
+**Emails with product cards and alerts, Telegram short reports, Excel full reports**<br/>
 - [Product cards content rating report.](https://github.com/Russell-Alykov/Work/blob/main/content_rating/content_rating.py) <br/>
-Description:<br/> ETL pipeline, download products content raiting data via API from Ozon marketplace to PostgreSQL server and Excel reports. <br/>
+Description:<br/> ETL pipeline that fetches product content ratings via API from the Ozon marketplace and writes data to PostgreSQL and Excel. <br/>
 Output: <br/>
 **PostgreSQL DB table, Google sheet, Excel**<br/>
-- []()
+
 
 **MY STUDY PROJECTS_2022_** <br/>
 - [E-learning project](https://github.com/Russell-Alykov/E-learning_project/blob/main/e_learning_project.ipynb)<br/>
