@@ -13,7 +13,7 @@ It's an endless road, but I'll go as far as I can 🌐 <br/>
 God bless the Math and Semiconductors! 🖖🏻 <br/>
 **01110010 01100001** 🤖 <br/>
 
-**MY COMMERCIAL PROJECTS_** <br/>
+**SOME OF MY COMMERCIAL PROJECTS_** <br/>
 (All data structure is anonymized 🥷🏼)<br/>
 ETL's and Reports_<br/>
 **2025_** <br/>
