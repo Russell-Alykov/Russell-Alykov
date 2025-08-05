@@ -22,7 +22,13 @@ ETL's and Reports_<br/>
 - [Amazon_ads_report](https://github.com/Russell-Alykov/Work/blob/main/amazon_ads_report/amz_ads_report.py)<br/>
 Description:<br/> ETL pipeline — downloading advertising reports from Amazon Ads API, transforming and loading data into PostgreSQL. <br/>
 Output: <br/>
-**PostgreSQL DB table for dashboard in Superset**<br/>
+**PostgreSQL DB table for Product Results dashboard in Superset**<br/>
+
+- [Google_n_fb_report](https://github.com/Russell-Alykov/Work/blob/main/google_n_fb_stats_report/google_n_fb_report.py)<br/>
+Description:
+ETL pipeline — extracts product dictionary and performance metrics from Google Sheets (Shopping, Search, Facebook Ads, Import), cleans and merges data, then loads into PostgreSQL.
+Output:
+**PostgreSQL DB tables for Product Results dashboard in Superset**
 
 **2023_** <br/>
 - [Stock reports bot.](https://github.com/Russell-Alykov/Work/blob/main/bot_leftovers_mp/bot_leftovers_mp.py)<br/>
