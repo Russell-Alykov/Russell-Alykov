@@ -17,7 +17,7 @@ God bless the Math and Semiconductors! 🖖🏻 <br/>
 (All data structure is anonymized 🥷🏼)<br/>
 ETL's and Reports_<br/>
 **2025_** <br/>
-- [Amazon_ads_report](https://github.com/Russell-Alykov/Work/blob/main/amazon_ads_report/amz_ads_report.py)<br/>
+- [Tiktok_stats_report](https://github.com/Russell-Alykov/Work/blob/main/tik_tok_stats/tik_tok_stats.py)<br/>
 Description:<br/>
 ETL pipeline — retrieves advertising spend and performance metrics from TikTok API, processes campaign data, and updates a PostgreSQL table via Airflow DAG.<br/>
 Output:<br/>
