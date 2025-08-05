@@ -13,14 +13,15 @@ It's an endless road, but I'll go as far as I can 🌐 <br/>
 God bless the Math and Semiconductors! 🖖🏻 <br/>
 **01110010 01100001** 🤖 <br/>
 
-**SOME OF MY COMMERCIAL PROJECTS_** <br/>
+**SELECTED COMMERCIAL PROJECTS_** <br/>
 (All data structure is anonymized 🥷🏼)<br/>
 ETL's and Reports_<br/>
 **2025_** <br/>
 
 **2024_** <br/>
 - [Amazon_ads_report](https://github.com/Russell-Alykov/Work/blob/main/amazon_ads_report/amz_ads_report.py)<br/>
-Description:<br/> ETL pipeline — downloading advertising reports from Amazon Ads API, transforming and loading data into PostgreSQL. <br/>
+Description:<br/>
+ETL pipeline — downloading advertising reports from Amazon Ads API, transforming and loading data into PostgreSQL. <br/>
 Output: <br/>
 **PostgreSQL DB table for Product Results dashboard in Superset**<br/>
 
