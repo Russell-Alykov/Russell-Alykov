@@ -23,6 +23,14 @@ ETL pipeline — retrieves advertising spend and performance metrics from TikTok
 Output:<br/>
 **PostgreSQL DB table — daily statistics collection for multiple departments**<br/>
 
+- [Tiktok_stats_report](https://github.com/Russell-Alykov/Work/blob/main/tik_tok_stats/tik_tok_stats.py)<br/>
+Description:<br/>
+ETL pipeline — retrieves Okta fraud and conversion reports from Gmail attachments, filters out fraudulent records by AppsFlyer_ID, and loads clean and fraud datasets into PostgreSQL (keeps clean data for the current and previous month, fraud data for 10 days).<br/>
+Output:<br/>
+**PostgreSQL DB tables:** <br/>
+**no_fraud_okta_mail_redirect — clean conversions dataset for BI and analytics teams** <br/>
+**temporary_fraud_okta_mails — temporary fraud dataset stored for 10 days for investigation and cleanup** <br/>
+
 **2024_** <br/>
 - [Amazon_ads_report](https://github.com/Russell-Alykov/Work/blob/main/amazon_ads_report/amz_ads_report.py)<br/>
 Description:<br/>
