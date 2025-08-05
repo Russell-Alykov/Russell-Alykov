@@ -27,8 +27,8 @@ Output: <br/>
 
 - [Google_n_fb_report](https://github.com/Russell-Alykov/Work/blob/main/google_n_fb_stats_report/google_n_fb_report.py)<br/>
 Description:
-ETL pipeline — extracts product dictionary and performance metrics from Google Sheets (Shopping, Search, Facebook Ads, Import), cleans and merges data, then loads into PostgreSQL.
-Output:
+ETL pipeline — extracts product dictionary and performance metrics from Google Sheets (Shopping, Search, Facebook Ads, Import), cleans and merges data, then loads into PostgreSQL.<br/>
+Output:<br/>
 **PostgreSQL DB tables for Product Results dashboard in Superset**
 
 **2023_** <br/>
