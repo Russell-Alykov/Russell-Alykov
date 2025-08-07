@@ -25,7 +25,7 @@ Output:<br/>
 
 - [Mails_parser](https://github.com/Russell-Alykov/Work/blob/main/okta_fraud_mails_to_db/okta_fraud_mails_to_db.py)<br/>
 Description:<br/>
-ETL pipeline — retrieves Okta fraud and conversion reports from Gmail attachments, filters out fraudulent records by AppsFlyer_ID, and loads clean and fraud datasets into PostgreSQL (keeps clean data for the current and previous month, fraud data for 10 days).<br/>
+ETL pipeline — retrieves fraud and conversion reports from Gmail attachments, filters out fraudulent records by AppsFlyer_ID, and loads clean and fraud datasets into PostgreSQL (keeps clean data for the current and previous month, fraud data for 10 days).<br/>
 Output:<br/>
 **PostgreSQL DB tables:** <br/>
 **no_fraud_mail_redirect — clean conversions dataset for BI and analytics teams** <br/>
